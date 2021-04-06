@@ -1,11 +1,9 @@
 // In the name of ALLAH the most Gracious the most Merciful
-
 #include <iostream>
 #include<vector>
 #include<queue>
 using namespace std;
 typedef long long ll;
-#define lol ios_base::sync_with_stdio(0);cin.tie(0);
 #define all(v) v.begin(), v.end()
 #define vi vector<int>
 
