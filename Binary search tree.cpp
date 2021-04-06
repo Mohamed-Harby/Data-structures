@@ -161,11 +161,4 @@ int main() {
 	cout << endl;
 	breadth_traversal(root); cout << '\n';
 	breadth_traversal_by_level(root);
-
 }
-
-
-
-
-
-
